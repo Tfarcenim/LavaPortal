@@ -1,0 +1,5 @@
+// 1.19.2	2023-11-03T15:24:56.6903781	Block State Definitions
+dff2e0a98613bc9e23273baa10a6a758af5a79bb assets/lavaportal/blockstates/lava_portal.json
+faf7421bfca88d0f0d82567566e2792941a176ac assets/lavaportal/blockstates/lava_portal_frame.json
+46fbd428d938ff9bfd6d4fe0ffe32efe537ad934 assets/lavaportal/models/block/lava_portal_frame.json
+49d334a029541eddb24f18b7c591f52ac47eae19 assets/lavaportal/models/item/lava_portal_frame.json

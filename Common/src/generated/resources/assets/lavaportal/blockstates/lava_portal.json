@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "lavaportal:block/lava_portal_ns"
+    },
+    "axis=z": {
+      "model": "lavaportal:block/lava_portal_ew"
+    }
+  }
+}

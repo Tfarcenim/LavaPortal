@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lavaportal:block/lava_portal_frame"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:block/nether_portal_ns",
+  "textures" : {
+    "particle": "lavaportal:block/lava_portal",
+    "portal": "lavaportal:block/lava_portal"
+  }
+}
